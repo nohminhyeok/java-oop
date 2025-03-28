@@ -80,7 +80,7 @@ public class PersonMain {
 		HashMap<String,Object> map = new HashMap<String,Object>();
 		map.put("name", "샹크스");
 		map.put("age", 40);
-		String[] myHobby = {"술","패왕색","견문색","카무사리"};
+		String[] myHobby = {"술","패왕색","견문색","카무사리","밀집모자 짬처리하기"};
 		map.put("hobby", myHobby);
 		Data myData = new Data(7, 11);
 		map.put("data", myData);
